@@ -27,6 +27,7 @@ python run_field_training_label.py
 **6. Perform E-DAP after DAP for pretrained BERT**
 
 python create_entity_predict_pretraining_data.py
+
 python run_predict_pretraining.py
 
 **7. Create entity-enhanced EL sentence pair for target domain**
