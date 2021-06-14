@@ -20,7 +20,7 @@ python run_pretraining.py
 
 python run_filed_training.py
 
-**5.  generate peseudo label for target domain samples**
+**5.  Generate pseudo label for target domain samples**
 
 python run_field_training_label.py
 
